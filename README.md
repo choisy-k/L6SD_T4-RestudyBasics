@@ -1,5 +1,5 @@
 # L6SD_T4-RestudyBasics
-Personal project; an attempt to apply the knowledge I've gained from watching Coding Droplet's videos on .NET MAUI basics.
+Personal project; an attempt to apply the knowledge I've gained from watching tutorial videos on .NET MAUI basics.
 
 What am I trying to do by restudying?
 - Familiarising myself with how the UI looks and works. I want to be able to create an appealing UI design.
